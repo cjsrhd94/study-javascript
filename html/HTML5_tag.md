@@ -2,7 +2,6 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>HTML5 기본 태그 모음</title>
 </head>
 <body>
 <h2>HTML5 기본 태그</h2>
